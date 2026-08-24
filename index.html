@@ -41,7 +41,6 @@
   </div>
 
   <script>
-    // Base units: length -> meters, weight -> grams, temperature -> celsius (special-cased)
     const units = {
       length: {
         base: 'meter',
@@ -153,8 +152,6 @@
     document.getElementById('inputValue').addEventListener('input', convert);
     document.getElementById('fromUnit').addEventListener('change', convert);
     document.getElementById('toUnit').addEventListener('change', convert);
-
-    // init
     setCategory('length');
   </script>
 
