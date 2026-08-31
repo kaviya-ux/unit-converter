@@ -17,13 +17,6 @@ A simple, single-file unit converter built with HTML, Tailwind CSS, and vanilla 
 - [Tailwind CSS](https://tailwindcss.com/) (via CDN)
 - Vanilla JavaScript (no frameworks, no libraries)
 
-## Possible Improvements
-
-- Add more categories (area, volume, speed)
-- Add a swap button to flip "from" and "to" units
-- Add keyboard shortcuts
-- Persist last-used units with localStorage
-
 ## License
 
 Free to use for learning or personal projects.
