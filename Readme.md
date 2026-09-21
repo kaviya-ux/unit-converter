@@ -18,5 +18,4 @@ A simple, single-file unit converter built with HTML, Tailwind CSS, and vanilla 
 - Vanilla JavaScript (no frameworks, no libraries)
 
 ## License
-
 Free to use for learning or personal projects.
